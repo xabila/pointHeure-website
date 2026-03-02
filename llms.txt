@@ -1,0 +1,28 @@
+# PointHeure - L'app de pointage simple et élégante
+
+PointHeure est une application iOS moderne conçue pour simplifier le suivi des heures de travail pour les professionnels français. Elle se distingue par sa simplicité d'utilisation, son respect total de la vie privée et son interface soignée.
+
+## Core Features
+- **Pointage en 1 tap** : Enregistrez vos heures instantanément.
+- **Widgets iOS Interactifs** : Pointez directement depuis l'écran d'accueil sans ouvrir l'application.
+- **Interface "Billet de Train"** : Visualisation claire des 4 passages quotidiens (arrivée, déjeuner, retour, départ).
+- **Suivi en temps réel** : Visualisation immédiate du temps restant pour atteindre l'objectif quotidien.
+- **Statistiques complètes** : Vues par semaine, mois et année avec calcul automatique des heures supplémentaires.
+- **Confidentialité totale** : Pas de compte, pas de tracking, toutes les données restent sur l'iPhone.
+
+## Target Audience
+Professionnels, freelances et salariés (notamment sous le régime des 35h, 39h, etc.) cherchant une alternative moderne aux tableaux Excel et aux badgeuses complexes.
+
+## Pricing
+- **Modèle** : Abonnement annuel à petit prix.
+- **Tarif** : 1,99€ / an.
+- **Avantages** : Sans publicité, sans frais cachés.
+
+## Technical Context
+- **Plateforme** : iOS 17+.
+- **Disponibilité** : Disponible sur l'App Store. https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367
+- **Origine** : Conçu et développé en France.
+
+## Contact & Support
+- Email : xlarrodeapp+pointheure@gmail.com
+- Site web : https://pointheure.com

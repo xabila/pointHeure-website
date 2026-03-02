@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de Confidentialité - PointHeure</title>
+    <meta name="description"
+        content="Politique de confidentialité de l'application PointHeure. Découvrez comment nous protégeons vos données.">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://pointheure.app/privacy.html">
+    <link rel="icon" type="image/jpeg" href="assets/images/AppIcon.jpg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #7C3AED;
+            --accent: #EC4899;
+            --background: #FAF5FF;
+            --text-primary: #1F1635;
+            --text-secondary: #6B5B8A;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--background);
+            color: var(--text-primary);
+            line-height: 1.8;
+        }
+
+        nav {
+            background: rgba(250, 245, 255, 0.95);
+            backdrop-filter: blur(20px);
+            padding: 1rem 2rem;
+            border-bottom: 1px solid rgba(124, 58, 237, 0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        nav .container {
+            max-width: 800px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        nav img {
+            width: 40px;
+            height: 40px;
+            border-radius: 10px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: var(--text-primary);
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 3rem 2rem 5rem;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 800;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .last-updated {
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            margin-top: 2.5rem;
+            margin-bottom: 1rem;
+            color: var(--primary);
+        }
+
+        p,
+        ul {
+            margin-bottom: 1rem;
+            color: var(--text-secondary);
+        }
+
+        ul {
+            padding-left: 1.5rem;
+        }
+
+        li {
+            margin-bottom: 0.5rem;
+        }
+
+        strong {
+            color: var(--text-primary);
+        }
+
+        a {
+            color: var(--primary);
+        }
+
+        .highlight {
+            background: white;
+            border-left: 4px solid var(--primary);
+            padding: 1rem 1.5rem;
+            border-radius: 0 12px 12px 0;
+            margin: 1.5rem 0;
+        }
+
+        .highlight p {
+            margin: 0;
+        }
+
+        footer {
+            background: var(--text-primary);
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            font-size: 0.9rem;
+        }
+
+        footer a {
+            color: rgba(255, 255, 255, 0.7);
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <div class="container">
+            <img src="assets/images/AppIcon.jpg" alt="PointHeure">
+            <a href="/">PointHeure</a>
+        </div>
+    </nav>
+
+    <main>
+        <h1>Politique de Confidentialité</h1>
+        <p class="last-updated">Dernière mise à jour : 30 janvier 2026</p>
+
+        <div class="highlight">
+            <p><strong>Résumé :</strong> PointHeure respecte votre vie privée. Toutes vos données restent sur votre
+                appareil. Nous ne collectons, stockons ou partageons aucune donnée personnelle.</p>
+        </div>
+
+        <h2>1. Introduction</h2>
+        <p>PointHeure ("nous", "notre", "l'application") est une application de suivi d'heures de travail conçue avec le
+            respect de votre vie privée comme priorité absolue.</p>
+        <p>Cette politique de confidentialité explique comment nous traitons (ou plutôt, ne traitons pas) vos
+            informations lorsque vous utilisez notre application.</p>
+
+        <h2>2. Données collectées</h2>
+        <p><strong>Nous ne collectons aucune donnée personnelle.</strong></p>
+        <p>PointHeure fonctionne entièrement hors ligne et stocke toutes les informations localement sur votre iPhone :
+        </p>
+        <ul>
+            <li>Vos heures de pointage</li>
+            <li>Vos paramètres (objectif hebdomadaire, jours travaillés)</li>
+            <li>Vos projets et lieux de travail</li>
+        </ul>
+        <p>Ces données ne quittent jamais votre appareil et ne sont transmises à aucun serveur.</p>
+
+        <h2>3. Stockage des données</h2>
+        <p>Toutes vos données sont stockées localement sur votre iPhone via le framework SwiftData d'Apple. Elles sont :
+        </p>
+        <ul>
+            <li>Protégées par le chiffrement natif d'iOS</li>
+            <li>Accessibles uniquement par l'application PointHeure</li>
+            <li>Sauvegardées dans vos sauvegardes iCloud (si activées)</li>
+            <li>Supprimées automatiquement si vous désinstallez l'application</li>
+        </ul>
+
+        <h2>4. Partage des données</h2>
+        <p><strong>Nous ne partageons aucune donnée avec des tiers.</strong></p>
+        <p>Puisque nous ne collectons aucune donnée, nous n'avons rien à partager. Aucun analytics, aucun tracking,
+            aucune publicité.</p>
+
+        <h2>5. Services tiers</h2>
+        <p>PointHeure n'utilise aucun service tiers susceptible de collecter des données :</p>
+        <ul>
+            <li>Pas de Google Analytics</li>
+            <li>Pas de Facebook SDK</li>
+            <li>Pas de Firebase</li>
+            <li>Pas de publicités</li>
+        </ul>
+
+        <h2>6. Localisation (optionnel)</h2>
+        <p>Si vous activez la fonction optionnelle de pointage automatique par localisation :</p>
+        <ul>
+            <li>Votre position est utilisée uniquement pour détecter votre arrivée/départ du lieu de travail</li>
+            <li>Ces données restent sur votre appareil</li>
+            <li>Aucune position n'est transmise à nos serveurs (nous n'en avons pas)</li>
+            <li>Vous pouvez désactiver cette fonction à tout moment</li>
+        </ul>
+
+        <h2>7. Sécurité</h2>
+        <p>Nous appliquons les meilleures pratiques de sécurité :</p>
+        <ul>
+            <li>Architecture "privacy by design"</li>
+            <li>Aucun serveur = aucun risque de fuite de données</li>
+            <li>Chiffrement iOS natif</li>
+            <li>Code source auditable</li>
+        </ul>
+
+        <h2>8. Droits RGPD</h2>
+        <p>Conformément au Règlement Général sur la Protection des Données (RGPD), vous avez les droits suivants :</p>
+        <ul>
+            <li><strong>Accès :</strong> Toutes vos données sont visibles dans l'application</li>
+            <li><strong>Rectification :</strong> Vous pouvez modifier n'importe quelle entrée</li>
+            <li><strong>Suppression :</strong> Désinstallez l'app pour supprimer toutes les données</li>
+            <li><strong>Portabilité :</strong> Export disponible dans les paramètres</li>
+        </ul>
+        <p>Puisque nous ne stockons aucune donnée sur nos serveurs, l'exercice de ces droits est immédiat et sous votre
+            contrôle total.</p>
+
+        <h2>9. Enfants</h2>
+        <p>PointHeure n'est pas destinée aux enfants de moins de 16 ans. L'application ne collecte aucune donnée, y
+            compris de mineurs.</p>
+
+        <h2>10. Modifications</h2>
+        <p>Nous pouvons mettre à jour cette politique de confidentialité. En cas de changement important, nous vous en
+            informerons via l'application.</p>
+
+        <h2>11. Contact</h2>
+        <p>Pour toute question concernant cette politique de confidentialité :</p>
+        <p><strong>Email :</strong> <a
+                href="mailto:xlarrodeapp+pointheure@gmail.com">xlarrodeapp+pointheure@gmail.com</a></p>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 PointHeure. Tous droits réservés.</p>
+        <p><a href="/">Retour à l'accueil</a> · <a href="terms.html">Conditions d'utilisation</a> · <a
+                href="mentions-legales.html">Mentions légales</a></p>
+    </footer>
+</body>
+
+</html>
