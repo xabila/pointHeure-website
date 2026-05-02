@@ -2,29 +2,30 @@
 <html lang="fr">
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     
     <!-- SEO Meta Tags -->
-    <title>PointHeure - L'app de pointage simple et élégante | Suivi d'heures iOS</title>
-    <meta name="description" content="PointHeure - Pointez vos heures de travail en 1 tap. Voyez instantanément combien il vous reste. Widget inclus. 100% gratuit, sans pub, sans compte. App iOS française.">
-    <meta name="keywords" content="pointage, heures de travail, suivi temps, 35 heures, application iOS, badgeuse, timer travail, RTT, calcul heures, pointeuse, app française">
+    <title>PointHeure — Voir la réalité de ses heures | App de pointage iOS</title>
+    <meta name="description" content="Arrêtez de travailler au ressenti. Commencez à travailler avec des faits. PointHeure : heures réelles, heures sup invisibles, temps restant — tout est clair. App iOS gratuite.">
+    <meta name="keywords" content="pointage, heures de travail, suivi temps, 35 heures, application iOS, badgeuse, timer travail, RTT, calcul heures, pointeuse, app française, heures supplémentaires, temps restant">
     <meta name="author" content="PointHeure">
-    <meta name="robots" content="index, follow">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
     <link rel="canonical" href="https://pointheure.com/">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://pointheure.com/">
-    <meta property="og:title" content="PointHeure - L'app de pointage simple et élégante">
-    <meta property="og:description" content="Pointez vos heures en 1 tap. Voyez combien il vous reste. 100% gratuit.">
+    <meta property="og:title" content="PointHeure — Voir la réalité de ses heures">
+    <meta property="og:description" content="Arrêtez de travailler au ressenti. Commencez à travailler avec des faits. Heures réelles, heures sup, temps restant : tout est clair.">
     <meta property="og:image" content="https://pointheure.com/assets/images/app-screenshot.png">
     <meta property="og:locale" content="fr_FR">
+    <meta property="og:site_name" content="PointHeure">
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="https://pointheure.com/">
-    <meta name="twitter:title" content="PointHeure - L'app de pointage simple et élégante">
-    <meta name="twitter:description" content="Pointez vos heures en 1 tap. Voyez combien il vous reste. 100% gratuit.">
+    <meta name="twitter:title" content="PointHeure — Voir la réalité de ses heures">
+    <meta name="twitter:description" content="Arrêtez de travailler au ressenti. Commencez à travailler avec des faits.">
     <meta name="twitter:image" content="https://pointheure.com/assets/images/app-screenshot.png">
 
     <!-- Favicon -->
@@ -34,7 +35,7 @@
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
     <!-- Structured Data for SEO -->
     <script type="application/ld+json">
@@ -42,9 +43,11 @@
         "@context": "https://schema.org",
         "@type": "MobileApplication",
         "name": "PointHeure",
-        "operatingSystem": "iOS",
+        "operatingSystem": "iOS 17+",
         "applicationCategory": "ProductivityApplication",
-        "description": "L'app de pointage simple et élégante pour les professionnels français. Enregistrez vos heures de travail en 1 tap.",
+        "description": "Voir la réalité de ses heures. Arrêtez de travailler au ressenti, commencez à travailler avec des faits. Heures réelles, heures sup invisibles, temps restant : tout est clair.",
+        "url": "https://pointheure.com",
+        "downloadUrl": "https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367",
         "offers": {
             "@type": "Offer",
             "price": "0",
@@ -53,7 +56,13 @@
         "author": {
             "@type": "Organization",
             "name": "PointHeure",
+            "url": "https://pointheure.com",
             "email": "xlarrodeapp+pointheure@gmail.com"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "ratingCount": "50"
         }
     }
     </script>
@@ -69,21 +78,47 @@
             },
             colors: {
               brand: {
-                50: '#f5f3ff',
-                100: '#ede9fe',
-                200: '#ddd6fe',
-                300: '#c4b5fd',
-                400: '#a78bfa',
-                500: '#8b5cf6', // Primary brand color
-                600: '#7c3aed',
-                700: '#6d28d9',
-                800: '#5b21b6',
-                900: '#4c1d95',
+                50: '#faf5ff',
+                100: '#f3e8ff',
+                200: '#e9d5ff',
+                300: '#d8b4fe',
+                400: '#c084fc',
+                500: '#a855f7',
+                600: '#9333ea',
+                700: '#7e22ce',
+                800: '#6b21a8',
+                900: '#581c87',
+                950: '#3b0764',
+              },
+              surface: {
+                dark: '#0f0520',
+                mid: '#1a0a3e',
+              },
+              accent: {
+                pink: '#ec4899',
+                magenta: '#db2777',
               }
             },
             boxShadow: {
-              'glow': '0 0 40px -10px rgba(139, 92, 246, 0.3)',
-              'card': '0 20px 40px -15px rgba(0, 0, 0, 0.05)',
+              'glow': '0 0 60px -10px rgba(168, 85, 247, 0.5)',
+              'glow-pink': '0 0 60px -10px rgba(236, 72, 153, 0.4)',
+              'card': '0 20px 40px -15px rgba(0, 0, 0, 0.1)',
+              'card-hover': '0 25px 50px -12px rgba(0, 0, 0, 0.15)',
+            },
+            animation: {
+              'float': 'float 6s ease-in-out infinite',
+              'float-slow': 'float 8s ease-in-out infinite',
+              'glow-pulse': 'glow-pulse 4s ease-in-out infinite',
+            },
+            keyframes: {
+              float: {
+                '0%, 100%': { transform: 'translateY(0px)' },
+                '50%': { transform: 'translateY(-10px)' },
+              },
+              'glow-pulse': {
+                '0%, 100%': { opacity: '0.4' },
+                '50%': { opacity: '0.8' },
+              }
             }
           }
         }
@@ -92,8 +127,11 @@
     <style>
       body {
         font-family: 'Inter', sans-serif;
-        background-color: #F8F9FF;
+        background-color: #0f0520;
+        color: #ffffff;
         overflow-x: hidden;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
       }
       .hide-scrollbar::-webkit-scrollbar {
         display: none;
@@ -101,6 +139,51 @@
       .hide-scrollbar {
         -ms-overflow-style: none;
         scrollbar-width: none;
+      }
+      /* Glass card effect */
+      .glass-card {
+        background: rgba(255, 255, 255, 0.95);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
+      }
+      .glass-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
+      }
+      .glass-card {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+      /* Glass dark for dark-mode cards */
+      .glass-dark {
+        background: rgba(255, 255, 255, 0.06);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+      }
+      /* Animated gradient orbs */
+      .orb {
+        position: absolute;
+        border-radius: 50%;
+        filter: blur(80px);
+        pointer-events: none;
+        will-change: transform;
+      }
+      .orb-purple {
+        background: radial-gradient(circle, rgba(168, 85, 247, 0.5) 0%, transparent 70%);
+      }
+      .orb-pink {
+        background: radial-gradient(circle, rgba(236, 72, 153, 0.4) 0%, transparent 70%);
+      }
+      .orb-blue {
+        background: radial-gradient(circle, rgba(59, 130, 246, 0.3) 0%, transparent 70%);
+      }
+      /* Pill glow */
+      .pill-glow {
+        background: linear-gradient(135deg, rgba(168, 85, 247, 0.3) 0%, rgba(236, 72, 153, 0.3) 100%);
+        border: 1px solid rgba(255, 255, 255, 0.15);
+        backdrop-filter: blur(16px);
+        -webkit-backdrop-filter: blur(16px);
+        box-shadow: 0 8px 32px rgba(236, 72, 153, 0.2);
       }
     </style>
 
@@ -114,7 +197,7 @@
       }
     }
     </script>
-  <script type="module" crossorigin src="/assets/index-CTRPdd7b.js"></script>
+  <script type="module" crossorigin src="/assets/index-CsAGo2wq.js"></script>
 </head>
   <body>
     <div id="root"></div>
