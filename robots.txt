@@ -1,5 +1,84 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Allow: /
 
+# LLM & AI Crawlers - Explicitly allowed
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Gemini
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Timesbot
+Allow: /
+
+User-agent: CopilotBot
+Allow: /
+
+User-agent: PhindBot
+Allow: /
+
+User-agent: iaskBot
+Allow: /
+
 Sitemap: https://pointheure.com/sitemap.xml
+
+# LLMs.txt for AI context
+# See: https://pointheure.com/llms.txt
+# Full version: https://pointheure.com/llms-full.txt

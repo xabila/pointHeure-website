@@ -1,27 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://pointheure.com/</loc>
-        <lastmod>2026-03-02</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://pointheure.com/privacy.html</loc>
-        <lastmod>2026-01-30</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://pointheure.com/terms.html</loc>
-        <lastmod>2026-01-30</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://pointheure.com/mentions-legales.html</loc>
-        <lastmod>2026-01-30</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.3</priority>
-    </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://pointheure.com/</loc>
+    <lastmod>2026-05-03</lastmod>
+    <priority>1.00</priority>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/wKMxEegdYFc/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>PointHeure - Suivi des heures de travail en temps réel</video:title>
+      <video:description>Découvrez PointHeure : pointage en 1 tap, heures sup automatiques, widgets iOS interactifs.</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/wKMxEegdYFc</video:content_loc>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/2YgVRsSI7tA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>PointHeure - Widgets iOS pour le pointage</video:title>
+      <video:description>Pointez directement depuis votre écran d'accueil avec les widgets interactifs PointHeure.</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/2YgVRsSI7tA</video:content_loc>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/M0N4vdZxswA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>PointHeure - Statistiques et heures supplémentaires</video:title>
+      <video:description>Visualisez vos heures réelles, heures sup et temps restant en un coup d'œil.</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/M0N4vdZxswA</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pointheure.com/privacy.html</loc>
+    <lastmod>2026-05-03</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pointheure.com/privacy-en.html</loc>
+    <lastmod>2026-05-03</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pointheure.com/terms.html</loc>
+    <lastmod>2026-05-03</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pointheure.com/terms-en.html</loc>
+    <lastmod>2026-05-03</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://pointheure.com/mentions-legales.html</loc>
+    <lastmod>2026-05-03</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://pointheure.com/llms.txt</loc>
+    <lastmod>2026-05-03</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://pointheure.com/llms-full.txt</loc>
+    <lastmod>2026-05-03</lastmod>
+    <priority>0.50</priority>
+  </url>
 </urlset>

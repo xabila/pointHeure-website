@@ -1,0 +1,11 @@
+{
+  "schema_version": "v1",
+  "name": "PointHeure",
+  "description": "PointHeure est une application iOS de suivi des heures de travail. Pointage en 1 tap, widgets interactifs, statistiques avancées et heures supplémentaires automatiques. Conçue pour les professionnels français.",
+  "url": "https://pointheure.com",
+  "logo_url": "https://pointheure.com/assets/images/AppIcon.jpg",
+  "contact_email": "xlarrodeapp+pointheure@gmail.com",
+  "legal_info_url": "https://pointheure.com/privacy.html",
+  "llms_txt": "https://pointheure.com/llms.txt",
+  "llms_full_txt": "https://pointheure.com/llms-full.txt"
+}

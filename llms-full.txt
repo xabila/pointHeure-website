@@ -1,0 +1,74 @@
+# PointHeure — App de pointage iOS (Full Context)
+
+> Arrêtez de travailler au ressenti. Commencez à travailler avec des faits.
+
+PointHeure est une application iOS moderne conçue pour simplifier le suivi des heures de travail.
+Elle se distingue par sa simplicité d'utilisation, son respect total de la vie privée et son interface soignée.
+
+## Why PointHeure
+
+- Pointage en 1 tap, sans friction
+- Widgets iOS interactifs : pointez sans ouvrir l'app
+- Calcul automatique des heures supplémentaires (hebdomadaire)
+- Visualisation temps restant en temps réel
+- 100% privé : pas de compte, pas de tracking, données sur l'iPhone uniquement
+- Conçu et développé en France
+
+## Core Features
+
+- **Pointage en 1 tap** : Enregistrez vos heures instantanément avec une interface "billet de train" (4 passages : arrivée, déjeuner, retour, départ)
+- **Widgets iOS Interactifs** : Pointez directement depuis l'écran d'accueil sans ouvrir l'application
+- **Suivi en temps réel** : Visualisation immédiate du temps restant pour atteindre l'objectif quotidien
+- **Statistiques complètes** : Vues par semaine, mois et année avec calcul automatique des heures supplémentaires
+- **Calendrier intelligent** : Progression hebdomadaire et totaux cumulés
+- **Historique détaillé** : Entrées et sorties avec horodatage exact
+- **Export CSV** : Exportez vos données pour les partager ou les archiver
+- **Géolocalisation** : Pointage automatique à l'arrivée/départ du lieu de travail
+- **Confidentialité totale** : Pas de compte, pas de tracking, toutes les données restent sur l'iPhone
+
+## Target Audience
+
+Professionnels, freelances et salariés (notamment sous le régime des 35h, 39h, etc.) cherchant une alternative moderne aux tableaux Excel et aux badgeuses complexes.
+
+## Platform & Pricing
+
+- **Platform** : iOS 17+ (iPhone)
+- **Download** : https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367
+- **Model** : Abonnement annuel à petit prix
+- **Price** : 1,99€ / an
+- **Benefits** : Sans publicité, sans frais cachés
+
+## Languages
+
+French (Français), English
+
+## Video Demos
+
+PointHeure has video demos on YouTube Shorts:
+- https://www.youtube.com/shorts/wKMxEegdYFc
+- https://www.youtube.com/shorts/2YgVRsSI7tA
+- https://www.youtube.com/shorts/M0N4vdZxswA
+- Channel: https://www.youtube.com/@xlarrodeapp
+
+## Technical Stack
+
+- **App** : Swift, SwiftUI, SwiftData, WidgetKit, StoreKit 2, CoreLocation
+- **Website** : Vite, React, TypeScript, Tailwind CSS
+- **Developer** : Xavier Larrodé
+- **Privacy** : No analytics on user data. No data sold. Local storage only.
+
+## Contact & Support
+
+- Email: xlarrodeapp+pointheure@gmail.com
+- YouTube: https://www.youtube.com/@xlarrodeapp
+
+## All Links
+
+- Website: https://pointheure.com
+- Privacy Policy (FR): https://pointheure.com/privacy.html
+- Privacy Policy (EN): https://pointheure.com/privacy-en.html
+- Terms (FR): https://pointheure.com/terms.html
+- Terms (EN): https://pointheure.com/terms-en.html
+- Legal Notice: https://pointheure.com/mentions-legales.html
+- App Store: https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367
+- Sitemap: https://pointheure.com/sitemap.xml
