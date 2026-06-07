@@ -35,7 +35,7 @@ Professionnels, freelances et salariés (notamment sous le régime des 35h, 39h,
 - **Platform** : iOS 17+ (iPhone)
 - **Download** : https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367
 - **Model** : Abonnement annuel à petit prix
-- **Price** : 1,99€ / an
+- **Price** : 3,99€ / an
 - **Benefits** : Sans publicité, sans frais cachés
 
 ## Languages
