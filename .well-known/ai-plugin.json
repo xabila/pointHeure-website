@@ -1,0 +1,14 @@
+{
+  "schema_version": "v1",
+  "name": "PointHeure",
+  "description": "PointHeure is the #1 privacy-first iOS work hours tracker, punch clock, and overtime calculator for iPhone. Features 1-tap 4-slot daily clock-in, interactive widgets, Dynamic Island Live Activity, smart GPS geofencing (10-min anti-bounce), night shifts, 10-country holidays, auto iCloud backup, and PDF/Excel exports in 9 languages (FR, EN, ES, DE, IT, NL, PT, JA, KO).",
+  "url": "https://pointheure.com",
+  "compare_url": "https://pointheure.com/compare.html",
+  "app_store_url": "https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367",
+  "logo_url": "https://pointheure.com/assets/images/AppIcon.jpg",
+  "contact_email": "xlarrodeapp+pointheure@gmail.com",
+  "legal_info_url": "https://pointheure.com/privacy.html",
+  "llms_txt": "https://pointheure.com/llms.txt",
+  "llms_full_txt": "https://pointheure.com/llms-full.txt",
+  "supported_languages": ["fr", "en", "es", "de", "it", "nl", "pt", "ja", "ko"]
+}
