@@ -19,48 +19,128 @@
   </url>
   <url>
     <loc>https://pointheure.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pointheure.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pointheure.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pointheure.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pointheure.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://pointheure.com/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pointheure.com/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pointheure.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pointheure.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pointheure.com/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pointheure.com/en/"/>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://pointheure.com/es/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pointheure.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pointheure.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pointheure.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pointheure.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://pointheure.com/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pointheure.com/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pointheure.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pointheure.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pointheure.com/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pointheure.com/en/"/>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://pointheure.com/de/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pointheure.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pointheure.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pointheure.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pointheure.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://pointheure.com/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pointheure.com/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pointheure.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pointheure.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pointheure.com/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pointheure.com/en/"/>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://pointheure.com/it/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pointheure.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pointheure.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pointheure.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pointheure.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://pointheure.com/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pointheure.com/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pointheure.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pointheure.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pointheure.com/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pointheure.com/en/"/>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://pointheure.com/nl/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pointheure.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pointheure.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pointheure.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pointheure.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://pointheure.com/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pointheure.com/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pointheure.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pointheure.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pointheure.com/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pointheure.com/en/"/>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://pointheure.com/pt/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pointheure.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pointheure.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pointheure.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pointheure.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://pointheure.com/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pointheure.com/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pointheure.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pointheure.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pointheure.com/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pointheure.com/en/"/>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://pointheure.com/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pointheure.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pointheure.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pointheure.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pointheure.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://pointheure.com/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pointheure.com/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pointheure.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pointheure.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pointheure.com/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pointheure.com/en/"/>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://pointheure.com/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pointheure.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pointheure.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pointheure.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pointheure.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://pointheure.com/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://pointheure.com/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pointheure.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pointheure.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pointheure.com/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pointheure.com/en/"/>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
