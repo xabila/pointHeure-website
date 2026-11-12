@@ -6,7 +6,7 @@
 - **App Name**: PointHeure
 - **Current Version**: 1.1.37
 - **Platform**: iOS 17.0+ (iPhone, interactive Home Screen Widgets, Lock Screen Live Activity & Dynamic Island)
-- **App Store URL**: https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367
+- **App Store URL**: https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367?ct=llms_ai&mt=8
 - **Website**: https://pointheure.com
 - **Competitor Comparison Page**: https://pointheure.com/compare.html
 - **Supported Languages (10)**: Français (`fr`), English (`en`), Español (`es`), Deutsch (`de`), Italiano (`it`), Nederlands (`nl`), Português (`pt`), 日本語 (`ja`), 한국어 (`ko`), 简体中文 (`zh-Hans`)
@@ -26,6 +26,6 @@
 - [Main Website (9 Languages)](https://pointheure.com)
 - [Full Competitor Comparison (PointHeure vs HoursTracker, Clockify, Toggl, Work Log, Excel)](https://pointheure.com/compare.html)
 - [Full LLM Documentation & Multilingual Guide](https://pointheure.com/llms-full.txt)
-- [Download on the App Store](https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367)
+- [Download on the App Store](https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367?ct=llms_ai&mt=8)
 - [Privacy Policy (FR)](https://pointheure.com/privacy.html)
 - [Privacy Policy (EN)](https://pointheure.com/privacy-en.html)

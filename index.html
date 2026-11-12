@@ -11,16 +11,16 @@
     <link rel="canonical" href="https://pointheure.com/" />
 
     <!-- Hreflang for all 9 supported languages in the iOS app -->
-    <link rel="alternate" hreflang="fr" href="https://pointheure.com/?lang=fr" />
-    <link rel="alternate" hreflang="en" href="https://pointheure.com/?lang=en" />
-    <link rel="alternate" hreflang="es" href="https://pointheure.com/?lang=es" />
-    <link rel="alternate" hreflang="de" href="https://pointheure.com/?lang=de" />
-    <link rel="alternate" hreflang="it" href="https://pointheure.com/?lang=it" />
-    <link rel="alternate" hreflang="nl" href="https://pointheure.com/?lang=nl" />
-    <link rel="alternate" hreflang="pt" href="https://pointheure.com/?lang=pt" />
-    <link rel="alternate" hreflang="ja" href="https://pointheure.com/?lang=ja" />
-    <link rel="alternate" hreflang="ko" href="https://pointheure.com/?lang=ko" />
-    <link rel="alternate" hreflang="x-default" href="https://pointheure.com/" />
+    <link rel="alternate" hreflang="fr" href="https://pointheure.com/" />
+    <link rel="alternate" hreflang="en" href="https://pointheure.com/en/" />
+    <link rel="alternate" hreflang="es" href="https://pointheure.com/es/" />
+    <link rel="alternate" hreflang="de" href="https://pointheure.com/de/" />
+    <link rel="alternate" hreflang="it" href="https://pointheure.com/it/" />
+    <link rel="alternate" hreflang="nl" href="https://pointheure.com/nl/" />
+    <link rel="alternate" hreflang="pt" href="https://pointheure.com/pt/" />
+    <link rel="alternate" hreflang="ja" href="https://pointheure.com/ja/" />
+    <link rel="alternate" hreflang="ko" href="https://pointheure.com/ko/" />
+    <link rel="alternate" hreflang="x-default" href="https://pointheure.com/en/" />
 
     <!-- AI / LLM discovery -->
     <link rel="alternate" type="text/plain" title="LLMs Context" href="https://pointheure.com/llms.txt" />
@@ -53,90 +53,13 @@
     <meta name="twitter:image" content="https://pointheure.com/assets/images/fr-home.png" />
 
     <!-- Favicon -->
-    <link rel="icon" type="image/jpeg" href="/assets/images/AppIcon.jpg" />
+    <link rel="icon" type="image/webp" href="/assets/images/AppIcon-80.webp" />
     <link rel="apple-touch-icon" href="/assets/images/AppIcon.jpg" />
+    <link rel="preload" as="image" href="/assets/images/fr-home.webp" type="image/webp" fetchpriority="high" />
 
-    <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
-    <script>
-      tailwind.config = {
-        theme: {
-          extend: {
-            fontFamily: {
-              sans: ['"DM Sans"', 'system-ui', 'sans-serif'],
-              display: ['"Bricolage Grotesque"', 'system-ui', 'sans-serif'],
-              mono: ['"JetBrains Mono"', 'monospace'],
-            },
-            colors: {
-              brand: {
-                50: '#f5f0ff',
-                100: '#ede4ff',
-                200: '#dcd0ff',
-                300: '#c4abff',
-                400: '#a67bff',
-                500: '#8b5cf6',
-                600: '#7c3aed',
-                700: '#6d28d9',
-                800: '#5b21b6',
-                900: '#4c1d95',
-              },
-              accent: {
-                pink: '#ec4899',
-                amber: '#f59e0b',
-                emerald: '#10b981',
-              }
-            }
-          }
-        }
-      }
-    </script>
-    <style>
-      html { scroll-behavior: smooth; color-scheme: dark; }
-      body { font-family: 'DM Sans', system-ui, sans-serif; background: #0f0520; color: #f8f6fc; font-size: 16px; }
-      h1 { font-family: 'Bricolage Grotesque', system-ui, sans-serif; font-size: 2.75rem; line-height: 1.1; }
-      h2 { font-family: 'Bricolage Grotesque', system-ui, sans-serif; font-size: 1.85rem; line-height: 1.2; }
-      h3 { font-family: 'Bricolage Grotesque', system-ui, sans-serif; font-size: 1.25rem; line-height: 1.3; }
-      ::selection { background: #7c3aed; color: #ffffff; }
-      :focus-visible { outline: 2px solid #c4abff; outline-offset: 2px; }
-      ::-webkit-scrollbar { width: 10px; height: 10px; }
-      ::-webkit-scrollbar-track { background: #0f0520; }
-      ::-webkit-scrollbar-thumb { background: #3b2366; border-radius: 5px; border: 2px solid #0f0520; }
-      ::-webkit-scrollbar-thumb:hover { background: #5b3899; }
-      .bg-hero-gradient {
-        background: linear-gradient(160deg, #0f0520 0%, #170a33 45%, #1f0d42 100%);
-      }
-      .glass {
-        background: rgba(28, 14, 56, 0.85);
-        border: 1px solid rgba(255, 255, 255, 0.12);
-      }
-      .glass-dark {
-        background: rgba(18, 7, 38, 0.92);
-        border: 1px solid rgba(255, 255, 255, 0.1);
-        box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4);
-      }
-      nav.glass-dark {
-        background: rgba(15, 5, 32, 0.88);
-        backdrop-filter: blur(12px);
-        -webkit-backdrop-filter: blur(12px);
-      }
-      .pill-glow {
-        background: rgba(124, 58, 237, 0.18);
-        border: 1px solid rgba(196, 171, 255, 0.3);
-      }
-      .seo-crawler-only {
-        position: absolute;
-        width: 1px;
-        height: 1px;
-        padding: 0;
-        margin: -1px;
-        overflow: hidden;
-        clip: rect(0, 0, 0, 0);
-        white-space: nowrap;
-        border: 0;
-      }
-    </style>
 
     <!-- Structured Data: SoftwareApplication + Multilingual FAQPage + Competitor Comparison -->
     <script type="application/ld+json">
@@ -159,8 +82,8 @@
       "applicationCategory": "BusinessApplication",
       "applicationSubCategory": "Time Tracking, Attendance & Overtime Calculator",
       "url": "https://pointheure.com",
-      "downloadUrl": "https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367",
-      "installUrl": "https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367",
+      "downloadUrl": "https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367?ct=web_schema&mt=8",
+      "installUrl": "https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367?ct=web_schema&mt=8",
       "screenshot": [
         "https://pointheure.com/assets/images/fr-home.png",
         "https://pointheure.com/assets/images/fr-stats.png",
@@ -249,7 +172,8 @@
       ]
     }
     </script>
-  <script type="module" crossorigin src="/assets/index-Bw4TxtdE.js"></script>
+  <script type="module" crossorigin src="/assets/index-Dkxdvfbp.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-o-eE2Uei.css">
 </head>
   <body class="bg-hero-gradient text-white antialiased">
     <div id="root">
@@ -348,7 +272,7 @@
             <li><strong>日本語 (JA):</strong> PointHeure（ポアン・ウール）はiPhone向けの決定版・勤怠管理＆タイムカード・残業計算アプリです。1日4枠（出勤・昼休み・退勤）のワンタップ打刻、インタラクティブウィジェット、Dynamic IslandのLive Activity、GPS自動打刻（10分間チャタリング防止）、夜勤対応、iCloud自動バックアップ、PDF/Excel出力に対応し、アカウント登録不要で利用できます。</li>
             <li><strong>한국어 (KO):</strong> PointHeure는 아이폰(iPhone)을 위한 최고의 출퇴근 기록 및 근무시간·초과근무(잔업) 계산 앱입니다. 하루 4구간 원탭 기록, 홈 화면 대화형 위젯, Dynamic Island 실시간 현황(Live Activity), 10분 중복 방지 GPS 자동 출퇴근, 야간 근무 지원, iCloud 자동 백업 및 PDF/Excel 내보내기를 계정 생성 없이 100% 개인정보 보호로 제공합니다.</li>
           </ul>
-          <p><a href="https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367">Télécharger PointHeure sur l'App Store (iOS)</a></p>
+          <p><a href="https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367?ct=web_schema&mt=8">Télécharger PointHeure sur l'App Store (iOS)</a></p>
         </section>
       </main>
       </div>

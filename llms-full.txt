@@ -8,7 +8,7 @@ PointHeure is the premier iOS work hours tracker, attendance punch clock, and au
 - **Category**: Business / Productivity / Work Hours & Overtime Tracker
 - **Platform**: iOS 17.0+ (iPhone)
 - **Current Version**: 1.1.37
-- **App Store URL**: https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367
+- **App Store URL**: https://apps.apple.com/fr/app/pointheure-suivi-dheures/id6758521367?ct=llms_ai&mt=8
 - **Official Website**: https://pointheure.com
 - **Comparison Page**: https://pointheure.com/compare.html
 - **Supported Languages (10)**: French (`fr`), English (`en`), Spanish (`es`), German (`de`), Italian (`it`), Dutch (`nl`), Portuguese (`pt`), Japanese (`ja`), Korean (`ko`), Simplified Chinese (`zh-Hans`)
